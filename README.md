@@ -12,7 +12,7 @@ Easily convert images from various formats to JPG with this versatile and powerf
 
 ## Demo
 
-Insert gif or link to demo
+![vid](https://github.com/user-attachments/assets/015fb70b-3e50-438b-833b-2ebe4ab94f17)
 
 
 ## Attributions
