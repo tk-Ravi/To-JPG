@@ -45,7 +45,7 @@ class _MyAppState extends State<MyApp> {
   // String debugJPGImageOutput = 'production_packaging_files\\imgk\\Images\\JPG';
 
   //* Use these paths for Procuction/Release
-  String releaseMogrifyPath = 'C:\\ravi\\tojpg\\data\\imgk\\.\\mogrify.exe';
+  String releaseMogrifyPath = 'C:\\ravi\\ToJPG\\data\\imgk\\.\\mogrify.exe';
   String releaseHEICImageInputPath = '*.*';
   String releaseJPGImageOutput = 'JPG';
 

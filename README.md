@@ -10,16 +10,14 @@ Easily convert images from various formats to JPG with this versatile and powerf
 - Ease of use
 
 
-## Attributions
-
-[Icon created by Shuvo.Das - Flaticon](https://www.flaticon.com/free-icons/jpg-file)
-
-
 ## Demo
 
 Insert gif or link to demo
 
 
+## Attributions
+
+[Icon created by Shuvo.Das - Flaticon](https://www.flaticon.com/free-icons/jpg-file)
 
 
 

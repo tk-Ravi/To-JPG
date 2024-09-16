@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\tojpg]
-"Icon"="C:\\ravi\\tojpg\\data\\flutter_assets\\assets\\icon\\app_icon.ico"
+"Icon"="C:\\ravi\\ToJPG\\to_jpg.exe"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\tojpg\command]
-@="cmd.exe /c start "" "C:\\ravi\\tojpg\\tojpg.exe""
+@="cmd.exe /c start "" "C:\\ravi\\ToJPG\\to_jpg.exe""
