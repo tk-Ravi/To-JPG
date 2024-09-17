@@ -17,7 +17,7 @@ Easily convert images from various formats to JPG with this versatile and powerf
 
 ## System Requirements
 Minimum:\
-OS: Windows 10/11 64-bit\
+OS: Windows 10 64-bit\
 Processor: Dual Core Processor\
 Memory: 4 GB RAM
 
