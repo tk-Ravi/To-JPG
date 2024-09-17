@@ -30,7 +30,7 @@ LicenseFile=C:\Users\Rajdeep Thakare\Documents\Flutter Projects\to_jpg\LICENSE
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
 PrivilegesRequiredOverridesAllowed=dialog
-OutputBaseFilename=Setupx64
+OutputBaseFilename=ToJPG Setup
 SetupIconFile=C:\Users\Rajdeep Thakare\Documents\Flutter Projects\to_jpg\assets\icon\app_icon.ico
 Compression=lzma
 SolidCompression=yes
@@ -53,12 +53,14 @@ Source: "C:\Users\Rajdeep Thakare\Desktop\Release\data\*"; DestDir: "{app}\data"
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Registry]
-;Registry data from file tojpg.reg
-Root: HKA; Subkey: "Software\Classes\Directory\Background\shell\tojpg"; Flags: uninsdeletekey
-Root: HKA; Subkey: "Software\Classes\Directory\Background\shell\tojpg"; ValueType: string; ValueName: "Icon"; ValueData: "C:\ravi\ToJPG\to_jpg.exe"; Flags: uninsdeletevalue
-Root: HKA; Subkey: "Software\Classes\Directory\Background\shell\tojpg\command"; Flags: uninsdeletekey
-Root: HKA; Subkey: "Software\Classes\Directory\Background\shell\tojpg\command"; ValueType: string; ValueName: ""; ValueData: "cmd.exe /c start """" ""C:\ravi\ToJPG\to_jpg.exe"""; Flags: uninsdeletevalue
-;End of registry data from file tojpg.reg
+;Registry data from file To JPG.reg
+Root: HKA; Subkey: "Software\Classes\Directory\Background\shell\To JPG"; Flags: uninsdeletekey
+Root: HKA; Subkey: "Software\Classes\Directory\Background\shell\To JPG"; ValueType: string; ValueName: "Icon"; ValueData: "C:\ravi\ToJPG\to_jpg.exe"; Flags: uninsdeletevalue
+Root: HKA; Subkey: "Software\Classes\Directory\Background\shell\To JPG\command"; Flags: uninsdeletekey
+Root: HKA; Subkey: "Software\Classes\Directory\Background\shell\To JPG\command"; ValueType: string; ValueName: ""; ValueData: "cmd.exe /c start """" ""C:\ravi\ToJPG\to_jpg.exe"""; Flags: uninsdeletevalue
+;End of registry data from file To JPG.reg
+
+
 
 [Icons]
 Name: "{group}\{#MyAppName}"; Filename: "{app}\{#MyAppExeName}"
