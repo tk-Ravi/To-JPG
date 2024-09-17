@@ -16,15 +16,15 @@ Easily convert images from various formats to JPG with this versatile and powerf
 
 
 ## System Requirements
-Minimum:
-OS: Windows 10/11 64-bit
-Processor: Dual Core Processor
+Minimum:\
+OS: Windows 10/11 64-bit\
+Processor: Dual Core Processor\
 Memory: 4 GB RAM
 
-Recommended:
-OS: Windows 10/11 64-bit
-Processor: Quad Core Processor
-Memory: 8 GB RAM
+Recommended:\
+OS: Windows 10/11 64-bit\
+Processor: Quad Core Processor\
+Memory: 8 GB RAM\
 Additional Notes: The better the hardware, the faster it processes images.
 
 ## Attributions
