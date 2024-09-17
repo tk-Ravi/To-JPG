@@ -15,6 +15,18 @@ Easily convert images from various formats to JPG with this versatile and powerf
 ![vid](https://github.com/user-attachments/assets/015fb70b-3e50-438b-833b-2ebe4ab94f17)
 
 
+## System Requirements
+Minimum:
+OS: Windows 10/11 64-bit
+Processor: Dual Core Processor
+Memory: 4 GB RAM
+
+Recommended:
+OS: Windows 10/11 64-bit
+Processor: Quad Core Processor
+Memory: 8 GB RAM
+Additional Notes: The better the hardware, the faster it processes images.
+
 ## Attributions
 
 - [Icon created by Shuvo.Das - Flaticon](https://www.flaticon.com/free-icons/jpg-file)
