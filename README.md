@@ -17,7 +17,9 @@ Easily convert images from various formats to JPG with this versatile and powerf
 
 ## Attributions
 
-[Icon created by Shuvo.Das - Flaticon](https://www.flaticon.com/free-icons/jpg-file)
+- [Icon created by Shuvo.Das - Flaticon](https://www.flaticon.com/free-icons/jpg-file)
 
+- This software uses ImageMagick (https://imagemagick.org) for image processing.  
+  ImageMagick is licensed under the ImageMagick License, which can be found in the `ImageMagick LICENSE.txt` file.
 
 
